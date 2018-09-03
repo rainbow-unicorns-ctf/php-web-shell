@@ -29,3 +29,10 @@ ________________________________________________________________________________
 
 **- Notifies user when commands have been successfully executed, despite there being no output.**
 _____________________________________________________________________________________
+
+
+![image](https://user-images.githubusercontent.com/42949132/45002984-46639580-afab-11e8-9022-de9ce8804dfa.png)
+_____________________________________________________________________________________
+
+**- Uses a non-descriptive parameter, and base64 encodes commands for partial obfuscation.**
+_____________________________________________________________________________________
