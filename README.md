@@ -1,5 +1,4 @@
 # php-web-shell
-**Created By:** Derek Kleinhen
 _____________________________________________________________________________________
 **Description:** A Simple PHP Web Shell used for Remote Code Execution.
 _____________________________________________________________________________________
